@@ -25,8 +25,6 @@ Automatically extract structured business data from raw text documents (e.g. mee
 
 ## 🖼️ Preview
 
-![Zap Flow](https://raw.githubusercontent.com/ALVAROLEOPOLDO/zapier/main/zap-flow.png)
-
 [View Full Notion Page](https://www.notion.so/AI-Powered-Business-Intelligence-Extractor-1eec423cdaef8048a0c9e1daf687dc68?pvs=4)
 
 ---
